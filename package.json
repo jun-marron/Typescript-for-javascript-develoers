@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jun-marron/Typescript-for-javascript-develoers/issues"
   },
-  "homepage": "https://github.com/jun-marron/Typescript-for-javascript-develoers#readme"
+  "homepage": "https://github.com/jun-marron/Typescript-for-javascript-develoers#readme",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
